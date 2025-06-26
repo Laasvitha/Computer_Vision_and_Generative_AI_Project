@@ -1,8 +1,3 @@
-Certainly! Here's a **more detailed and professional version** of your `README.md` — perfect for submission, GitHub hosting, or documentation. It includes detailed explanations of how the project works, setup instructions, and student-specific deliverables.
-
----
-
-````markdown
 # 🖼️ AI Photo Editing with SAM & Stable Diffusion
 
 This project demonstrates the integration of Meta’s **Segment Anything Model (SAM)** with **Stable Diffusion Inpainting** from Hugging Face Diffusers to create a powerful AI image editing tool.
@@ -39,15 +34,8 @@ You can run the project in:
 Make sure the following Python packages are installed:
 
 ```bash
-torch
-transformers
-diffusers
-accelerate
-Pillow
-gradio
-opencv-python
-matplotlib
-````
+pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cu118
+pip install diffusers transformers accelerate Pillow gradio opencv-python matplotlib
 
 Install them with:
 
