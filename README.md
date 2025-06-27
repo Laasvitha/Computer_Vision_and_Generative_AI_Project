@@ -9,6 +9,7 @@ The tool allows users to **select a subject** in an image by clicking on it, and
 It’s a fun, interactive demonstration of modern **computer vision** and **generative AI** working together.
 
 ---
+![Editor SS](https://github.com/user-attachments/assets/a3f12a44-5c3a-4b4f-9097-aac028a90b8f)
 
 ## 🌟 Features
 
